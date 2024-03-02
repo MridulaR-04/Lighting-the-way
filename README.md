@@ -1,6 +1,7 @@
 # Lighting the Way: Gesture-Controlled LED System using Arduino
 
 ## Abstract:
+
 This IoT project presents a novel approach to controlling LED lights using hand gestures, facilitated by Python, Arduino, and OpenCV. The system utilizes a combination of hardware components including an Arduino UNO board, LED bulbs, breadboard, jumper wires, and resistors. The software stack comprises Python for high-level control, Arduino IDE for micro-controller programming, and OpenCV coupled with Mediapipe for gesture recognition.
 
 The primary objective of this project is to enable intuitive control of LED lights based on hand gestures, providing a hands-free and interactive user experience. By recognizing the number of fingers open on a hand using computer vision techniques provided by OpenCV and Mediapipe, the system dynamically adjusts the number of illuminated LED lights on the Arduino board. For instance, opening all five fingers triggers the activation of all five LED lights, while progressively fewer fingers lead to a corresponding reduction in the number of illuminated LEDs.
