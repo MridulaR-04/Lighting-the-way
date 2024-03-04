@@ -1,6 +1,6 @@
 import pyfirmata
 
-comport='COM5'
+comport='COM3'
 
 board = pyfirmata.Arduino(comport)
 
