@@ -49,6 +49,7 @@ Overall, this project demonstrates an innovative approach to LED control, combin
 
 - [Keerttna](https://github.com/Keerttna)
 - [Mridula](https://github.com/MridulaR-04)
+- [Padma Aishvarya](https://github.com/Padmaaishvarya)
 
 
 
