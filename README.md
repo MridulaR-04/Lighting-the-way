@@ -28,6 +28,32 @@ The primary objective of this project is to enable intuitive control of LED ligh
 
 Overall, this project demonstrates an innovative approach to LED control, combining computer vision techniques with micro-controller programming to create an interactive and intuitive system with diverse practical applications.
 
+## Project Photos:
+
+*Top view:*
+
+<img width="332" alt="image" src="https://github.com/MridulaR-04/Lighting-the-way/assets/127674493/481ef61f-495e-4451-8dfb-778216c9940d">
+
+*Side view:*
+
+<img width="327" alt="image" src="https://github.com/MridulaR-04/Lighting-the-way/assets/127674493/b4c0de44-1937-4cd5-94e3-558fd3d461db">
+
+<img width="327" alt="image" src="https://github.com/MridulaR-04/Lighting-the-way/assets/127674493/0575533c-f7e0-46de-8c57-8d095e6ba22b">
+
+## Technologies Used
+
+- Python
+- Arduino
+
+## Contributors
+
+- [Keerttna](https://github.com/Keerttna)
+- [Mridula](https://github.com/MridulaR-04)
+
+
+
+
+
 
 
 
